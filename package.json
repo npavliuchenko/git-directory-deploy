@@ -1,0 +1,6 @@
+{
+	"name": "git-directory-deploy",
+	"version": "0.1.0",
+	"description": "script for deploying generated files to a git branch, e.g. for GitHub pages",
+	"author": "X1011"
+}
